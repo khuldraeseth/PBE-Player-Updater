@@ -18,7 +18,7 @@ const archs = {
                     "Bunting": 5,
                     "Fielding Range": 45,
                     "Fielding Error": 35,
-                    "Fielding Arm": 35,
+                    "Fielding/Catching Arm": 35,
                     "Turn Double Play": 30,
                     "Catcher Ability": 25
                 },
@@ -38,7 +38,7 @@ const archs = {
                     "Bunting": 40,
                     "Fielding Range": 85,
                     "Fielding Error": 75,
-                    "Fielding Arm": 70,
+                    "Fielding/Catching Arm": 70,
                     "Turn Double Play": 70,
                     "Catcher Ability": 75
                 }
@@ -62,7 +62,7 @@ const archs = {
                     "Bunting": 35,
                     "Fielding Range": 40,
                     "Fielding Error": 30,
-                    "Fielding Arm": 25,
+                    "Fielding/Catching Arm": 25,
                     "Turn Double Play": 35,
                     "Catcher Ability": 5
                 },
@@ -82,7 +82,7 @@ const archs = {
                     "Bunting": 70,
                     "Fielding Range": 90,
                     "Fielding Error": 70,
-                    "Fielding Arm": 60,
+                    "Fielding/Catching Arm": 60,
                     "Turn Double Play": 80,
                     "Catcher Ability": 10
                 }
@@ -106,7 +106,7 @@ const archs = {
                     "Bunting": 40,
                     "Fielding Range": 20,
                     "Fielding Error": 45,
-                    "Fielding Arm": 30,
+                    "Fielding/Catching Arm": 30,
                     "Turn Double Play": 20,
                     "Catcher Ability": 45
                 },
@@ -126,7 +126,7 @@ const archs = {
                     "Bunting": 75,
                     "Fielding Range": 70,
                     "Fielding Error": 90,
-                    "Fielding Arm": 70,
+                    "Fielding/Catching Arm": 70,
                     "Turn Double Play": 60,
                     "Catcher Ability": 90
                 }
@@ -150,7 +150,7 @@ const archs = {
                     "Bunting": 5,
                     "Fielding Range": 25,
                     "Fielding Error": 30,
-                    "Fielding Arm": 45,
+                    "Fielding/Catching Arm": 45,
                     "Turn Double Play": 25,
                     "Catcher Ability": 20
                 },
@@ -170,7 +170,7 @@ const archs = {
                     "Bunting": 25,
                     "Fielding Range": 75,
                     "Fielding Error": 80,
-                    "Fielding Arm": 100,
+                    "Fielding/Catching Arm": 100,
                     "Turn Double Play": 70,
                     "Catcher Ability": 80
                 }
@@ -194,7 +194,7 @@ const archs = {
                     "Bunting": 40,
                     "Fielding Range": 40,
                     "Fielding Error": 40,
-                    "Fielding Arm": 35,
+                    "Fielding/Catching Arm": 35,
                     "Turn Double Play": 40,
                     "Catcher Ability": 5
                 },
@@ -214,7 +214,7 @@ const archs = {
                     "Bunting": 80,
                     "Fielding Range": 95,
                     "Fielding Error": 90,
-                    "Fielding Arm": 80,
+                    "Fielding/Catching Arm": 80,
                     "Turn Double Play": 90,
                     "Catcher Ability": 10
                 }
@@ -238,7 +238,7 @@ const archs = {
                     "Bunting": 5,
                     "Fielding Range": 20,
                     "Fielding Error": 20,
-                    "Fielding Arm": 10,
+                    "Fielding/Catching Arm": 10,
                     "Turn Double Play": 10,
                     "Catcher Ability": 25
                 },
@@ -258,7 +258,7 @@ const archs = {
                     "Bunting": 10,
                     "Fielding Range": 50,
                     "Fielding Error": 40,
-                    "Fielding Arm": 40,
+                    "Fielding/Catching Arm": 40,
                     "Turn Double Play": 40,
                     "Catcher Ability": 65
                 }
@@ -282,7 +282,7 @@ const archs = {
                     "Bunting": 5,
                     "Fielding Range": 40,
                     "Fielding Error": 30,
-                    "Fielding Arm": 40,
+                    "Fielding/Catching Arm": 40,
                     "Turn Double Play": 25,
                     "Catcher Ability": 5
                 },
@@ -302,7 +302,7 @@ const archs = {
                     "Bunting": 70,
                     "Fielding Range": 90,
                     "Fielding Error": 70,
-                    "Fielding Arm": 60,
+                    "Fielding/Catching Arm": 60,
                     "Turn Double Play": 80,
                     "Catcher Ability": 10
                 }

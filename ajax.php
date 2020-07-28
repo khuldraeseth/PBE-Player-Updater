@@ -47,8 +47,8 @@ Send that information back to pullData.js
             echo "We ran into an error: " . $errmsg . " Please report this error to AuGold on Discord!";
         }
         else{
-            $start = strpos($data, 'Player Information');
-            $length = strpos($data, '--------------------') - $start;
+            $start = strpos($data, '        <!-- THE POST');
+            $length = strpos($data, 'THE POST -->') + 12 - $start;
             $src = substr($data, $start, $length);
             echo $src;
         }
